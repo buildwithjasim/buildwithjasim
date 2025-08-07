@@ -13,7 +13,7 @@
 ### 🧑‍💼 About Me
 I’m a passionate full stack developer specializing in the MERN (MongoDB, Express, React, Node.js) stack.  
 I love building clean, scalable, and performance-driven web applications.  
-Currently open to collaborations and exciting opportunities in full-stack development.
+Currently open to collaborations and exciting opportunities in Mern-stack development.
 
 ---
 
