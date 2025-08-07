@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://www.linkedin.com/in/jasim-uddin-b78421379/overlay/background-image/" alt="Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE9tys_VKvGNg/profile-displaybackgroundimage-shrink_350_1400/B4EZiGW6JSGwAk-/0/1754600811653?e=1757548800&v=beta&t=6C7Q59pTqAHaNtdL_aUkv4NbNBrFGDJoU7d3xqVh8Bg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
