@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasimuddin/jasimuddin/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://www.linkedin.com/in/jasim-uddin-b78421379/overlay/background-image/" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
