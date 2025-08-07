@@ -21,8 +21,7 @@ Currently open to collaborations and exciting opportunities in Mern-stack develo
 ### 🚀 Current Activities
 - 🌐 Working on a **Hotel Booking Web App** with dynamic date filters and Stripe integration
 - 📦 Exploring **Next.js 14** and server-side rendering
-- 📊 Building an **EduManage Dashboard** for student-teacher-admin management
-- 📘 Constantly improving my DevOps and deployment workflow with **Docker & Vercel**
+- 📊 Building an **Education Management System Website** for student-teacher-admin management
 
 ---
 
@@ -54,14 +53,9 @@ Currently open to collaborations and exciting opportunities in Mern-stack develo
 <!-- Social Links -->
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jasimuddin-dev)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/jasimuddin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jasimuddin-dev/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://jasimuddin.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jasim.webdev@gmail.com)
-
-📍 **Location:** Dhaka, Bangladesh  
-📞 **Contact:** +880-1XXXXXXXXX  
-📧 **Email:** jasim.webdev@gmail.com
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](jasimuddinmkl1@gmail.com)
 
 ---
 
@@ -92,10 +86,6 @@ A full-featured dashboard system for students, teachers, and admins with class m
 #### 2️⃣ DreamStay - Hotel Booking Platform  
 🔗 [Live Site](https://dreamstay-client.web.app) | 🛠️ React, Firebase, Stripe  
 A modern hotel booking platform with live date filters, booking management, review system, and payment via Stripe.
-
-#### 3️⃣ DevPortfolio - Personal Portfolio Site  
-🔗 [Live Site](https://jasimuddin.dev) | 🛠️ Next.js, Tailwind CSS  
-A professional portfolio site showcasing my projects, skills, blog, and contact form with responsive design.
 
 ---
 
