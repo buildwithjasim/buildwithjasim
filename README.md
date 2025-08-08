@@ -84,7 +84,7 @@ I value clean code, clear communication, and continuous learning.
 ### 📌 Featured Projects
 
 #### 1️⃣ EduManage - Education Management System  
-🔗 [Live Site](https://edumanage-client.web.app)  
+🔗 [Live Site](https://edumanagesystem-4e3fe.web.app/)  
 📁 [Repository](https://github.com/buildwithjasim/EduMange-Client)  
 🛠️ **Tech Stack:** React, Node.js, MongoDB, Firebase, Stripe  
 📌 Role-based LMS for Admins, Teachers, and Students with evaluation and assignment system
