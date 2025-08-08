@@ -1,86 +1,96 @@
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQE9tys_VKvGNg/profile-displaybackgroundimage-shrink_350_1400/B4EZiGW6JSGwAk-/0/1754600811653?e=1757548800&v=beta&t=6C7Q59pTqAHaNtdL_aUkv4NbNBrFGDJoU7d3xqVh8Bg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00c4ff;">Jasim Uddin</span></h1>
-<h3 align="center">💻 MERN Stack Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<h1 align="center">🚀 Jasim Uddin</h1>
+<h3 align="center">⚛️ Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
 
 ---
 
 <!-- About Me -->
 ### 🧑‍💼 About Me
-I’m a passionate full stack developer specializing in the **MERN (MongoDB, Express, React, Node.js)** stack.  
-I love building clean, scalable, and performance-driven web applications.  
-Open to exciting collaborations, freelance, and full-time development roles.  
-I value clean code, clear communication, and continuous learning.
+
+I’m a **Frontend-focused Full Stack Developer** who specializes in building beautiful, performant, and user-friendly web applications using the **MERN Stack**.  
+I’m deeply passionate about **responsive design**, **modern UI/UX**, and **clean code architecture**.  
+Open to **collaborations**, **freelance gigs**, and **full-time opportunities** in Frontend or MERN development.
 
 ---
 
-<!-- Current Activities -->
-### 🚀 Current Activities
-- 🏨 Building a **Hotel Booking Web App** with Stripe integration and live availability filters  
-- 📚 Developing an **Education Management System** with dashboards for students, teachers, and admins  
-- ⚙️ Exploring **Next.js 14** with server actions, SSR, and streaming data  
-- 💬 Contributing to **open-source projects** and sharpening backend architecture
-
----
-
-<!-- Skills with Icons -->
-### 🛠️ Skills & Tools
+<!-- Skills -->
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  
   <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img height="32" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="32" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="32" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
+<p align="center">
   <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
-  <a href="https://jwt.io/" target="_blank"><img height="32" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
+<p align="center">
   <!-- Tools -->
-  <a href="https://firebase.google.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
-  <a href="https://vercel.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.netlify.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <a href="https://github.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img height="32" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
-
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 <!-- Social Links -->
-### 📫 Connect with Me
+<h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:jasimuddinmkl1@gmail.com"><img height="36" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jasimuddin-dev/"><img height="36" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://jasimuddin.dev"><img height="36" src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jasimuddin-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jasimuddin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:jasimuddinmkl1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  📍 Chottogram, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 📧 jasimuddinmkl1@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +8801518926979
+  📍 Chottogram, Bangladesh  
+  | 📧 jasimuddinmkl1@gmail.com  
+  | 📞 +8801518926979
 </p>
 
 ---
 
+<!-- Current Activities -->
+### 🔥 Currently Working On
+
+- 🏨 A fully responsive **Hotel Booking Platform** with date filtering & Stripe integration  
+- 🎓 A **Complete Education LMS** system with teacher evaluation and class management  
+- 💼 Expanding knowledge on **Next.js 14** server actions & streaming  
+- 🌍 Building scalable open-source projects & improving developer tooling
+
+---
+
 <!-- GitHub Stats -->
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasimuddin&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jasimuddin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jasimuddin&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -89,31 +99,33 @@ I value clean code, clear communication, and continuous learning.
 
 ---
 
-<!-- Pinned Projects -->
-### 📌 Featured Projects
+<!-- Featured Projects -->
+## 📌 Featured Frontend Projects
 
-#### 1️⃣ EduManage - Education Management System  
+### 1️⃣ EduManage - Education Management System  
 🔗 [Live Site](https://edumanagesystem-4e3fe.web.app/)  
 📁 [Repository](https://github.com/buildwithjasim/EduMange-Client)  
-🛠️ **Tech Stack:** React, Node.js, MongoDB, Firebase, Stripe  
-📌 A role-based LMS for Admins, Teachers, and Students with evaluation reports and assignment submission system.
+🛠️ **Tech Stack:** React, Tailwind, Firebase, Node.js, MongoDB  
+📌 Multi-role LMS system with dashboards for Admins, Teachers, and Students, featuring assignment submissions and evaluation.
 
 ---
 
-#### 2️⃣ DreamStay - Hotel Booking Web App  
+### 2️⃣ DreamStay - Hotel Booking Web App  
 🔗 [Live Site](https://dreamstay-42147.web.app/)  
 📁 [Repository](https://github.com/buildwithjasim/DreamStay-Client)  
-🛠️ **Tech Stack:** React, Firebase, Stripe, MongoDB  
-📌 Hotel booking platform with Stripe integration, room availability, review system, and date filter.
+🛠️ **Tech Stack:** React, Firebase Auth, Stripe, MongoDB  
+📌 Real-time hotel room booking with review system, payment flow, and date-based filtering.
 
 ---
 
-#### 3️⃣ HobbyHub - Social Club Platform  
+### 3️⃣ HobbyHub - Social Club Community  
 🔗 [Live Site](https://hobbyhub-authentication.web.app/)  
 📁 [Repository](https://github.com/buildwithjasim/hobbyhub-client)  
-🛠️ **Tech Stack:** React, Firebase Auth, Node.js, MongoDB  
-📌 Community platform to create and join hobby-based clubs with role-based permissions and event features.
+🛠️ **Tech Stack:** React, Firebase, Node.js, MongoDB  
+📌 Social platform for users to join, create and manage interest-based clubs with role-specific privileges.
 
 ---
 
-🔧 _Always open to collaboration, freelance gigs, and building something impactful! Let’s connect and create!_
+<p align="center">
+  💡 _Let's collaborate and create amazing frontend experiences together!_  
+</p>
