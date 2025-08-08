@@ -5,7 +5,7 @@
 
 <!-- Name & Role -->
 <h1 align="center">👋 Hi, I'm Jasim Uddin</h1>
-<h3 align="center"><strong> 🚀A Full Stack Enthusiast | MERN Stack Specialist | Frontend + Backend</strong></h3>
+<h3 align="center"><strong>🚀 MERN Stack Developer | Aspiring Full Stack Engineer | Future-Proofing with Scalable Modern Technologies | Passionate about Building Smart, Scalable Web Solutions 🌐</strong></h3>
 
 ---
 
