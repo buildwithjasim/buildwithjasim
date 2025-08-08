@@ -13,15 +13,17 @@
 ### 🧑‍💼 About Me
 I’m a passionate full stack developer specializing in the MERN (MongoDB, Express, React, Node.js) stack.  
 I love building clean, scalable, and performance-driven web applications.  
-Currently open to collaborations and exciting opportunities in Mern-stack development.
+Currently open to exciting collaborations and full-time opportunities in web development.  
+I value clean code, clear communication, and continuous learning.
 
 ---
 
 <!-- Current Activities -->
 ### 🚀 Current Activities
-- 🌐 Working on a **Hotel Booking Web App** with dynamic date filters and Stripe integration
-- 📦 Exploring **Next.js 14** and server-side rendering
-- 📊 Building an **Education Management System Website** for student-teacher-admin management
+- 🏨 Working on a **Hotel Booking Web App** with live availability and Stripe payments
+- 📚 Building a complete **Education Management System** with class, teacher & student dashboards
+- ⚙️ Exploring advanced **Next.js 14** features like server actions & streaming
+- 💬 Actively contributing to **open-source projects** and refining system architecture skills
 
 ---
 
@@ -53,9 +55,11 @@ Currently open to collaborations and exciting opportunities in Mern-stack develo
 <!-- Social Links -->
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jasimuddin-dev/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://jasimuddin.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](jasimuddinmkl1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jasimuddin-dev/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://jasimuddin.dev)  
+📍 Location: Mymensingh, Bangladesh  
+📧 Email: jasimuddinmkl1@gmail.com  
+📞 Phone: +8801762XXXXXX (replace with actual number)
 
 ---
 
@@ -79,15 +83,25 @@ Currently open to collaborations and exciting opportunities in Mern-stack develo
 <!-- Pinned Projects -->
 ### 📌 Featured Projects
 
-#### 1️⃣ EduManage - Student Management System  
-🔗 [Live Site](https://edu-manage-client.web.app) | 🛠️ React, Express, MongoDB  
-A full-featured dashboard system for students, teachers, and admins with class management, evaluation reports, and real-time submission tracking.
+#### 1️⃣ EduManage - Education Management System  
+🔗 [Live Site](https://edumanage-client.web.app)  
+📁 [Repository](https://github.com/buildwithjasim/EduMange-Client)  
+🛠️ **Tech Stack:** React, Node.js, MongoDB, Firebase, Stripe  
+📌 Role-based LMS for Admins, Teachers, and Students with evaluation and assignment system
 
-#### 2️⃣ DreamStay - Hotel Booking Platform  
-🔗 [Live Site](https://dreamstay-client.web.app) | 🛠️ React, Firebase, Stripe  
-A modern hotel booking platform with live date filters, booking management, review system, and payment via Stripe.
+#### 2️⃣ DreamStay - Hotel Booking Web App  
+🔗 [Live Site](https://dreamstay-a2.web.app)  
+📁 [Repository](https://github.com/buildwithjasim/DreamStay-Client)  
+🛠️ **Tech Stack:** React, Firebase, Stripe, MongoDB  
+📌 Room booking app with Stripe payments, review system, date-based filtering, and booking management
+
+#### 3️⃣ HobbyHub - Social Club Platform  
+🔗 [Live Site](https://hobbyhub-db39e.web.app)  
+📁 [Repository](https://github.com/buildwithjasim/hobbyhub-client)  
+🛠️ **Tech Stack:** React, Firebase Auth, Node.js, MongoDB  
+📌 Social platform to join & create hobby-based clubs, role-based access and event engagement
 
 ---
 
-🔧 _Feel free to fork, clone, and connect! Always open to meaningful collaborations and discussions._
+🔧 _Always open to collaboration, freelance opportunities, and tech talks! Let's connect and build something amazing._
 
