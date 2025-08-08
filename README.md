@@ -57,9 +57,9 @@ I value clean code, clear communication, and continuous learning.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jasimuddin-dev/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://jasimuddin.dev)  
-📍 Location: Mymensingh, Bangladesh  
+📍 Location: Chottogram, Bangladesh  
 📧 Email: jasimuddinmkl1@gmail.com  
-📞 Phone: +8801762XXXXXX (replace with actual number)
+📞 Phone: +8801518926979
 
 ---
 
