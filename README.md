@@ -90,7 +90,7 @@ I value clean code, clear communication, and continuous learning.
 📌 Role-based LMS for Admins, Teachers, and Students with evaluation and assignment system
 
 #### 2️⃣ DreamStay - Hotel Booking Web App  
-🔗 [Live Site](https://dreamstay-a2.web.app)  
+🔗 [Live Site](https://dreamstay-42147.web.app/)  
 📁 [Repository](https://github.com/buildwithjasim/DreamStay-Client)  
 🛠️ **Tech Stack:** React, Firebase, Stripe, MongoDB  
 📌 Room booking app with Stripe payments, review system, date-based filtering, and booking management
