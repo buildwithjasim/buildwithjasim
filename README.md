@@ -5,7 +5,7 @@
 
 <!-- Name & Role -->
 <h1 align="center">👋 Hi, I'm Jasim Uddin</h1>
-<h3 align="center">🚀A Full Stack Enthusiast | MERN Stack Specialist | Frontend + Backend</h3>
+<h3 align="center"><strong> 🚀A Full Stack Enthusiast | MERN Stack Specialist | Frontend + Backend</strong></h3>
 
 ---
 
@@ -66,7 +66,7 @@
 
 <p align="center">
   📍 Chottogram, Bangladesh <br/>
-  📧 jasimuddinmkl1@gmail.com | 📞 +8801518926979
+  📧 <a href="mailto:jasimuddinmkl1@gmail.com">Email Me</a> | 📞 <a href="tel:+8801518926979">Call Me</a>
 </p>
 
 ---
