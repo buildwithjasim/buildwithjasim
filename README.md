@@ -5,7 +5,7 @@
 
 <!-- Name & Role -->
 <h1 align="center">👋 Hi, I'm Jasim Uddin</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist | Frontend + Backend</h3>
+<h3 align="center">🚀A Full Stack Enthusiast | MERN Stack Specialist | Frontend + Backend</h3>
 
 ---
 
