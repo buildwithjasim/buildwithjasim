@@ -96,7 +96,7 @@ I value clean code, clear communication, and continuous learning.
 📌 Room booking app with Stripe payments, review system, date-based filtering, and booking management
 
 #### 3️⃣ HobbyHub - Social Club Platform  
-🔗 [Live Site](https://hobbyhub-db39e.web.app)  
+🔗 [Live Site](https://hobbyhub-authentication.web.app/)  
 📁 [Repository](https://github.com/buildwithjasim/hobbyhub-client)  
 🛠️ **Tech Stack:** React, Firebase Auth, Node.js, MongoDB  
 📌 Social platform to join & create hobby-based clubs, role-based access and event engagement
